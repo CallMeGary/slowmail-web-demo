@@ -16,14 +16,6 @@
 	<script type="text/javascript" src="<c:url value='/static/js/bootstrap.min.js'/>"></script>
 	<script type="text/javascript" src="<c:url value='/static/js/bootstrap-datepicker.js'/>"></script>
 	<script type="text/javascript" src="<c:url value='/static/js/bootstrap-datepicker.zh-CN.js'/>" charset="UTF-8"></script>
-	<!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
-    <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
-
-    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-    <![endif]-->
 	<script type="text/javascript" src="<c:url value='/static/js/createMail.js'/>" charset="UTF-8"></script>
 </head>
 <body>
@@ -32,8 +24,6 @@
         <div class="navbar-header">
           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
             <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
